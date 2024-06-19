@@ -2,7 +2,7 @@
 
 ## 🤘 Sobre
 
-Projeto Petlov para o treinamento de automação de testes com Java e JUnit 5
+Projeto Petlov para Teste de Automação em Java
 
 ## 💻 Tecnologias
 - Selenium Webdriver 4.20.0
@@ -17,6 +17,5 @@ mvn test
 ```
 
 <hr>
-Curso disponível em https://rocketskills.com.br
 # Teste.Base2
 # Teste.Base2
