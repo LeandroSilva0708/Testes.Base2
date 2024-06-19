@@ -17,6 +17,5 @@ mvn test
 ```
 
 <hr>
-Curso disponível em https://rocketskills.com.br
 # Teste.Base2
 # Teste.Base2
